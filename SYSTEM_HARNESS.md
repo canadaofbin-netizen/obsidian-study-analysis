@@ -1,6 +1,6 @@
-# ⚖️ The Dual-Mode Epistemological Harness
+# ⚖️ The 3-Tier Epistemological Harness
 
-This document defines the absolute rules (The Harness) for how information MUST be extracted and connected within this Zettelkasten system. Do not deviate from these rules, regardless of whether you are running in Mode A (Multi-Agent Swarm) or Mode B (Manual Self-Debate).
+This document defines the absolute rules (The Harness) for how information MUST be extracted and connected within this Zettelkasten system. Do not deviate from these rules, regardless of whether you are running in Mode A (Native Swarm), Mode B (Self-Debate), or Mode C (Python Script).
 
 ## 🛑 Rule 1: The Separation of Extraction and Synthesis
 To prevent AI hallucination and distortion of the original authors' intent, the system strictly separates **Fact Extraction (Layer 1)** from **Knowledge Synthesis (Layer 2)**.
@@ -18,7 +18,7 @@ Concept Hubs (`wiki/concepts/`) cannot be generated arbitrarily.
 - This bidirectional linking guarantees a fully traceable, rigorous academic knowledge graph.
 
 ## 🛑 Rule 4: Dynamic Persona Generation (동적 페르소나 소환)
-Whether running the automated Python backend or using the manual prompt templates, the AI must dynamically adopt multiple expert personas. 
+Whether running a native swarm, an automated Python backend, or using the manual prompt templates, the AI must dynamically adopt multiple expert personas. 
 - Do not rely on a single perspective. Automatically generate and embody specialized personas (e.g., "Quantum Physicist", "Behavioral Economist", "Devil's Advocate") relevant to the papers' domain.
 - Force these personas to debate internally (Self-Debate) or externally (Multi-Agent) to cross-validate findings and stress-test assumptions.
 

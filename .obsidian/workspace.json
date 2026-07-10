@@ -11,14 +11,10 @@
             "id": "73ebc312e4dbde76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prompts/1_fact_extractor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_fact_extractor"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -182,6 +178,7 @@
   },
   "active": "73ebc312e4dbde76",
   "lastOpenFiles": [
+    "prompts/1_fact_extractor.md",
     "prompts/2_academic_orchestrator.md",
     "tests/__pycache__/test_challenger_tier5_adversarial.cpython-314-pytest-9.0.3.pyc",
     "tests/test_challenger_tier5_adversarial.py",
@@ -212,7 +209,6 @@
     "wiki/Fact - Families Vision of Generative AI Agents for Household Safety Against Digital and Physical Threats.md",
     "wiki/Fact - Socio-Economic Model of AI Agents.md",
     "wiki/Fact - Web3 x AI Agents Landscape Integrations and Foundational Challenges.md",
-    "wiki/Fact - AgentSLA  Towards a Service Level Agreement for AI Agents.md",
     "raw/sources/processed_papers.json",
     "pipeline.log",
     "tests/__pycache__/test_tier4_real_world.cpython-314-pytest-9.0.3.pyc",
