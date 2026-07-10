@@ -1,0 +1,13 @@
+# Ignore downloaded PDF files to prevent repository bloat
+raw/sources/*.pdf
+raw/sources/download_registry.json
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Do NOT ignore the Obsidian configs, scripts, and prompts
